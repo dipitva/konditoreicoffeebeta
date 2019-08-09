@@ -1,0 +1,15 @@
+MENU
+1. COLD COFFEE PLAIN
+							$2.00
+2. COLD COFFEE WITH ICE CREAM
+							$2.50
+3. LATTE
+							$2.95
+4. HAZELNUT
+							$4.00
+5. INTENSE CAFE
+							$2.75
+6. PASTA MAYO
+							$3.40
+7. PASTA
+							$3.75
